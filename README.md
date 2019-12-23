@@ -7,6 +7,11 @@ freebusmapはバスマップ自動描画システムbusmapjsを使います。
 busmapjsがあらゆるバスマップに共通する描画システムであるのに対し、freebusmapは個々のバスのデータを作るものです。
 ライセンスはCC0 1.0とします。
 
+## サンプル
+現在は試験的に<a href="https://github.com/toyotamakenkyusyo/freebusmap/blob/master/test.geojson">https://github.com/toyotamakenkyusyo/freebusmap/blob/master/test.geojson</a>にデータがあります。  
+<a href="https://toyotamakenkyusyo.github.io/freebusmap/freebusmap_test.xhtml">https://toyotamakenkyusyo.github.io/freebusmap/freebusmap_test.xhtml</a>でバスマップが表示されます。
+
+
 ## 参加方法
 freebusmapはGitHubでデータを管理しています。このデータは誰でも自由に使うことができます。
 データを作ったり、変えたい場合は、GitHubのプルリクエスト機能やissue機能をご利用ください。この方法はGitHubへの登録が必要になるため、この他メール等でご連絡いただくことも可能です。
