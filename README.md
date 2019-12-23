@@ -24,3 +24,6 @@ freebusmapのデータはGeoJSON形式と互換性のある独自形式を用い
 交差点と道路は国土地理院ベクトルタイル道路中心線の緯度経度を使用します。交差点名がある場合はそれを用い、ない場合は重複しないように適切な名をつけます。  
 道路のデータは<a href="https://ss1.xrea.com/toyotama.g1.xrea.com/bus/gtfsbusmap/rdclshapes/rdclshapes.xhtml">https://ss1.xrea.com/toyotama.g1.xrea.com/bus/gtfsbusmap/rdclshapes/rdclshapes.xhtml</a>等を用いて緯度経度を集めます。  
 運行系統は通る停車位置と交差点名をそれぞれ配列としてもちます。
+
+## 時系列データの扱い
+見切り発車のためまだ考えておりません。とりあえずはファイルを分けるか……
